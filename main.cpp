@@ -1,5 +1,5 @@
 /*Project 3: Chada Teck Grocery Tracker
-* Author: Janai Cano
+* Author: @heyitsjanai
 * Date: August 14, 2022
 */
 
